@@ -1,5 +1,5 @@
 
-👋 Hi, I'm a **Software Engineer** based in Brazil with 13+ years of experience in software development and digital products creation. 
+👋 Hi, I'm a **Software Engineer** based in Brazil with 14+ years of experience in software development and digital products creation. 
 
 These are the top 5 things I'm most proud about my career:
 
@@ -15,5 +15,5 @@ These are the top 5 things I'm most proud about my career:
 
 Useful links:
 -------------
-💼 [LinkedIn](https://www.linkedin.com/in/goldhardt/)<p>
-🐤 [Twitter](https://twitter.com/home)
+🧑‍💻 [Website](https://goldhardt.me)
+💼 [LinkedIn](https://www.linkedin.com/in/goldhardt/)
