@@ -15,5 +15,5 @@ These are the top 5 things I'm most proud about my career:
 
 Useful links:
 -------------
-🧑‍💻 [Website](https://goldhardt.me)
+🧑‍💻 [Website](https://goldhardt.me)<p>
 💼 [LinkedIn](https://www.linkedin.com/in/goldhardt/)
