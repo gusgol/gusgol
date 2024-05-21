@@ -1,9 +1,9 @@
 
-👋 Hi, I'm a **Software Engineer** based in Brazil with 14+ years of experience in software development and digital products creation. 
+👋 Hi, I'm a **Software Engineer** based in Brazil with 15+ years of experience in software development and digital products creation. 
 
 These are the top 5 things I'm most proud about my career:
 
-- 10 years of **Android Development** experience: I witnessed the many revolutions this platform has been through. From the bloated architecture-less activities to Compose-MVx-Clean, I've seen a bit of everything throughout the years. One thing never changed: there is always something new to learn.
+- 10+ years of **Android Development** experience: I witnessed the many revolutions this platform has been through. From the bloated architecture-less activities to Compose-MVx-Clean, I've seen a bit of everything throughout the years. One thing never changed: there is always something new to learn.
 
 - 4 years of **managing** other engineers at TownSq and HelloFresh: accomplishing things feels great, but being an instrument for other people to achieve their objectives is even better. As the engineering manager of more than 30 software developers over these years, their feedback humbles me when they say I had a positive impact on their careers and personal lives.
 
