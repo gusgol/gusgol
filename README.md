@@ -1,4 +1,4 @@
-## 👋 Hi, I'm a **Software Engineer** based in Brazil with 15+ years of experience in software development and digital products creation.
+## 👋 Hi, I'm a Brazilian🇧🇷/German🇩🇪 **Software Engineer** based in Brazil with 15+ years of experience in software development and digital products creation.
 
 - 11+ years of Android Development experience. Over the past decade, I have been a witness to the many transformations and advancements of the Android platform. From the initial architecture-less activities to the introduction of Compose-MVx-Clean, I have been actively monitoring and adapting to the platform’s evolution.
 
